@@ -54,4 +54,4 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 
 ### License
 
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is open source and available under the [MIT License](LICENSE).
