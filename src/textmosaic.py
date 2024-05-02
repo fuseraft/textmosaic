@@ -29,6 +29,9 @@ def get_text_dimensions(text_string, font):
     return (text_width, text_height)
 
 def create_text_mosaic(args):
+    """
+    Create a text mosaic image.
+    """
     try:
         # Open the input image
         original_image = Image.open(args.input_path).convert("RGBA")
